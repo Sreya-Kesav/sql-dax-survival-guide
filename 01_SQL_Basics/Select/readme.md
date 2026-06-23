@@ -1,12 +1,37 @@
-# SQL Select Basics
+# SQL SELECT
 
+## What Is It?
+
+SELECT is the most fundamental SQL statement used to retrieve data from a database table.
+
+---
+
+## Why Do We Use It?
+
+Whenever we want to view, analyze, or report on data, we use SELECT.
+
+Examples:
+
+- View patient records
+- Calculate revenue
+- Analyze appointments
+- Generate reports
+  
 ## Basic Syntax
 
 ```sql
 SELECT *
 FROM Patients;
 ```
----
+### Query Screenshot
+<img width="330" height="205" alt="image" src="https://github.com/user-attachments/assets/9b0b2b66-161d-4793-baae-bd567c87a423" />
+
+
+
+### Result Screenshot
+<img width="1187" height="702" alt="image" src="https://github.com/user-attachments/assets/b514e865-bc18-4dcf-8e9e-2c9630be24d6" />
+
+
 
 ## Example
 
@@ -17,9 +42,12 @@ FROM Patients;
 ```
 
 ### Query Screenshot
+<img width="352" height="251" alt="image" src="https://github.com/user-attachments/assets/db2e141b-7e9f-4763-95e4-461403de74ec" />
 
-<img width="1222" height="820" alt="image" src="https://github.com/user-attachments/assets/23fc92c6-10b5-4081-a267-8ac9036f4912" />
-<img width="1287" height="822" alt="image" src="https://github.com/user-attachments/assets/a6bdc526-bebc-4fad-bbb7-89a166e10a25" />
+
+### Result screenshot
+<img width="406" height="512" alt="image" src="https://github.com/user-attachments/assets/07f9a189-6614-42eb-8355-dfc298cdb86b" />
+
 
 
 ## Interview Question
