@@ -1,24 +1,4 @@
-# SQL Basics
-
-## What Is SQL?
-
-SQL (Structured Query Language) is the language used to communicate with databases.
-
-Think of SQL as a way to ask questions from data.
-
----
-
-## Why Do We Use It?
-
-We use SQL to:
-
-- Retrieve data
-- Filter records
-- Analyze information
-- Generate reports
-- Support business decisions
-
----
+# SQL Select Basics
 
 ## Basic Syntax
 
@@ -26,7 +6,7 @@ We use SQL to:
 SELECT *
 FROM Patients;
 ```
-
+asterix here next to "select" brings in every column which is generally not an optimal solution and makes the code run slower when there are thousands of rows. Hence, it's important to mention the names of the column
 ---
 
 ## Example
