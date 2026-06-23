@@ -49,15 +49,18 @@ FROM Patients
 ```
 
 SQL doesn't know where to fetch the data from.
-asterix next to "select" brings in every column which is generally not an optimal solution and makes the code run slower when there are thousands of rows. Hence, it's important to mention the names of the column
 ---
 
 ## My Notes
 
-When I started learning SQL, I thought SQL and Database were the same thing.
+1.When I started learning SQL, I thought SQL and Database were the same thing.
 
 Now I think of:
 
 Database = Library
 
 SQL = Librarian
+
+2. Asterix next to "select" brings in every column which is generally not an optimal solution
+   and makes the code run slower when there are thousands of rows. Hence, it's important to mention the names of the column
+
