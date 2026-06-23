@@ -12,12 +12,6 @@ It returns only unique records.
 
 In real-world databases, duplicate values are common.
 
-For example:
-
-A hospital may have hundreds of patients from the same city.
-
-If we want to know only the unique cities, we use DISTINCT.
-
 It helps:
 
 - Remove duplicates
@@ -47,7 +41,8 @@ FROM Doctors;
 
 ### Query Screenshot
 
-(Add screenshot here)
+
+
 
 ### Output Screenshot
 
