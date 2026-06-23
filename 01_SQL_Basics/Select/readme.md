@@ -6,7 +6,6 @@
 SELECT *
 FROM Patients;
 ```
-asterix here next to "select" brings in every column which is generally not an optimal solution and makes the code run slower when there are thousands of rows. Hence, it's important to mention the names of the column
 ---
 
 ## Example
@@ -50,7 +49,7 @@ FROM Patients
 ```
 
 SQL doesn't know where to fetch the data from.
-
+asterix next to "select" brings in every column which is generally not an optimal solution and makes the code run slower when there are thousands of rows. Hence, it's important to mention the names of the column
 ---
 
 ## My Notes
