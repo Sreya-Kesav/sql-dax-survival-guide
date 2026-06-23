@@ -49,11 +49,11 @@ FROM Patients
 ```
 
 SQL doesn't know where to fetch the data from.
----
+
 
 ## My Notes
 
-1.When I started learning SQL, I thought SQL and Database were the same thing.
+1. When I started learning SQL, I thought SQL and Database were the same thing.
 
 Now I think of:
 
