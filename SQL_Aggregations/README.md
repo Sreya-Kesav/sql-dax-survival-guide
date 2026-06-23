@@ -31,7 +31,8 @@ Learn how to summarize and analyze data.
 
 Example:
 
-#SQL code
+--#SQL code
+
 SUM(
     CASE
         WHEN status = 'Completed'
