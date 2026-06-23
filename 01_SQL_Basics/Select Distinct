@@ -46,26 +46,7 @@ FROM Doctors;
 
 ### Output Screenshot
 
-(Add screenshot here)
 
----
-
-## Example 2
-
-Find all unique appointment statuses.
-
-```sql
-SELECT DISTINCT status
-FROM Appointments;
-```
-
-### Query Screenshot
-
-(Add screenshot here)
-
-### Output Screenshot
-
-(Add screenshot here)
 
 ---
 
